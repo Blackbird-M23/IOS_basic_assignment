@@ -1,5 +1,8 @@
 **name** : farhan miraz shihab
+
 **roll** : 2007064
+
+
 
 # Whack a Mole!
 
@@ -28,7 +31,8 @@ This is a simple Whack a Mole game built using SwiftUI. The game is fun and inte
 ### Screenshots
 
 - Main Screen:
-    ![WhatsApp Image 2024-11-21 at 16 52 02_63acbd58](https://github.com/user-attachments/assets/54b5fd02-f1f7-4be0-9be7-387d20db6217)
+   ![main page](https://postimg.cc/tYSTccG5)
 
 - Gameplay:
-    ![WhatsApp Image 2024-11-21 at 16 52 02_a0c78adf](https://github.com/user-attachments/assets/6cb80ab7-789e-4458-96a5-b60f973ba5ee)
+      ![gameplay](https://postimg.cc/TL6YmMnR)
+  
