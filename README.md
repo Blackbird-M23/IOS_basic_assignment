@@ -31,8 +31,11 @@ This is a simple Whack a Mole game built using SwiftUI. The game is fun and inte
 ### Screenshots
 
 - Main Screen:
-   ![main page](https://postimg.cc/tYSTccG5)
+  <img src="(![WhatsApp Image 2024-11-21 at 16 52 02_9f1bc2e8](https://github.com/user-attachments/assets/726baceb-9bc7-40d7-b1a8-a639c7ee3c34)" alt="Mole Image" width="200">
+
 
 - Gameplay:
       ![gameplay](https://postimg.cc/TL6YmMnR)
+   <img src="(![WhatsApp Image 2024-11-21 at 16 52 02_b083c381](https://github.com/user-attachments/assets/1da00b68-136b-4b3e-b813-9b1b774a50b0)" alt="Mole Image" width="200">
+
   
