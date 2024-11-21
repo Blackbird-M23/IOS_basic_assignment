@@ -31,10 +31,10 @@ This is a simple Whack a Mole game built using SwiftUI. The game is fun and inte
 ### Screenshots
 
 - Main Screen:
-  ![Mole Image](C:\Users\USER\Downloads/mole1.png)
+  ![Mole Image](mole1.png)
 
 
 - Gameplay:
-   ![Mole Image](C:\Users\USER\Downloads/mole2.png)
+   ![Mole Image](mole2.png)
 
   
