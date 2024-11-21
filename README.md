@@ -35,6 +35,6 @@ This is a simple Whack a Mole game built using SwiftUI. The game is fun and inte
 
 
 - Gameplay:
-   ![Mole Image]([mole2.png](https://github.com/Blackbird-M23/IOS_basic_assignment/blob/main/mole22.jpg))
+   ![Mole Image](https://github.com/Blackbird-M23/IOS_basic_assignment/blob/main/mole22.jpg)
 
   
